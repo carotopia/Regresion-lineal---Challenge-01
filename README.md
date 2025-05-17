@@ -1,1 +1,1 @@
-# -Regresi-n-lineal
+
